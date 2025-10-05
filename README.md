@@ -26,7 +26,7 @@ Currently sharpening my skills for interviews and exploring ways to bridge **sof
 ---
 
 ## 🔥 Featured Projects
-- [🔐 BPO Management System](https://github.com/0xRohinth/bpo-management) – Flask-based CRUD with login & task assignment  
+- [🔐 BPO Management System](https://github.com/0xRohinth/bpo) – Flask-based CRUD with login & task assignment  
 - [✍️ Personal Portfolio (Jekyll)](https://0xrohinth.github.io) – Writing about debugging, cybersecurity, and tech tips  
 - [🏬 Stock Management App](https://github.com/0xRohinth/stock_circle) – A offline Stock management app with hybrid functions
 
