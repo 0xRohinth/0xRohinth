@@ -35,14 +35,6 @@ Currently sharpening my skills for interviews and exploring ways to bridge **sof
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xRohinth&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRohinth&theme=tokyonight" alt="GitHub Streak" height="150" />
-</p>
-
----
-
 ## 🌱 Currently Focusing On
 - Preparing for **interviews** (DSA + Core CS)  
 - Strengthening **SOC Analysis** & Incident Response skills  
